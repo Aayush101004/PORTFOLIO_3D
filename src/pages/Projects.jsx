@@ -11,7 +11,7 @@ const Projects = () => {
             </h1>
             <div className='mt-5 flex flex-col gap-3 text-slate-500'>
                 <p>
-                    Passionate Software Engineer
+                    Passionate Software Engineer eager to showcase my projects and apply my skills in real-world applications. Currently seeking internship or job opportunities in the software engineering field to gain practical experience and contribute to innovative solutions.
                 </p>
             </div>
             <div className='flex flex-wrap my-20 gap-16'>
