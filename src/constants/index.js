@@ -1,6 +1,5 @@
 import {
     c,
-    contact,
     cpp,
     css,
     form,
@@ -140,28 +139,19 @@ export const experiences = [
 
 export const socialLinks = [
     {
-        name: 'Contact',
-        iconUrl: contact,
-        link: '/contact',
-        target: '_self',
-    },
-    {
         name: 'GitHub',
         iconUrl: github,
         link: 'https://github.com/Aayush101004',
-        target: '_blank',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
         link: 'https://www.linkedin.com/in/aayush-khanna-87275824b',
-        target: '_blank',
     },
     {
         name: 'Resume',
         iconUrl: resume,
         link: 'https://drive.google.com/file/d/1BDiYMf-ZRnVGo8xZ1PB0VRyXT4OAV_rQ/view',
-        target: '_blank',
     }
 ];
 
