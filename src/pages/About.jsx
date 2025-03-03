@@ -80,8 +80,8 @@ const About = () => {
                         <a
                             key={index}
                             href={link.link}
-                            target="_blank"
-                            rel="noopener noreferrer"
+                            target={link.target}
+                            rel={link.target === '_blank' ? 'noopener noreferrer' : ''}
                             className="flex items-center gap-2 p-3 border rounded-lg hover:bg-gray-100 transition"
                         >
                         <img src={link.iconUrl} alt={link.name} className="w-6 h-6" />
