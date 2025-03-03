@@ -166,7 +166,7 @@ export const projects = [
     {
         iconUrl: tictactoe,
         theme: 'btn-back-blue',
-        name: 'Tic-Tac-Toe Game',
+        name: 'Tic-Tac-Toe',
         description: 'Developed a web-based Tic-Tac-Toe game with interactive UI, sound effects, and animations for an engaging experience.',
         link: 'https://github.com/Aayush101004/TICTACTOE',
     },
