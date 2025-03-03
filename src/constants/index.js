@@ -1,31 +1,25 @@
 import {
     c,
-    car,
     contact,
     cpp,
     css,
-    estate,
+    form,
     git,
     github,
     html,
     javascript,
     linkedin,
     mongodb,
-    form,
-    nextjs,
     news,
+    nextjs,
     portfolio,
-    pricewise,
     react,
-    snapgram,
-    summiz,
     tailwindcss,
-    threads,
-    threejs,
     tetris,
+    threejs,
     tictactoe
 } from "../assets_3d_portfolio/assets/icons";
-import { udemy, microsoft, sdg, sih } from "../assets_3d_portfolio/assets/images";
+import { microsoft, sdg, sih, udemy } from "../assets_3d_portfolio/assets/images";
 
 export const skills = [
     {
@@ -188,7 +182,7 @@ export const projects = [
         theme: 'btn-back-black',
         name: 'My Portfolio',
         description: 'Developed a 3D portfolio using Three.js with interactive 3D effects, featuring About, Projects, and Contact sections, and integrated EmailJS for messaging.',
-        link: '',
+        link: 'https://github.com/Aayush101004/PORTFOLIO_3D',
     },
     {
         iconUrl: news,
