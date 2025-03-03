@@ -14,6 +14,7 @@ import {
     nextjs,
     portfolio,
     react,
+    resume,
     tailwindcss,
     tetris,
     threejs,
@@ -152,6 +153,11 @@ export const socialLinks = [
         name: 'LinkedIn',
         iconUrl: linkedin,
         link: 'https://www.linkedin.com/in/aayush-khanna-87275824b',
+    },
+    {
+        name: 'Resume',
+        iconUrl: resume,
+        link: 'https://drive.google.com/file/d/1BDiYMf-ZRnVGo8xZ1PB0VRyXT4OAV_rQ/view',
     }
 ];
 
