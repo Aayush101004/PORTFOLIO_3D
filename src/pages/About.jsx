@@ -11,7 +11,7 @@ const About = () => {
             </h1>
             <div className='mt-5 flex flex-col gap-3 text-slate-500'>
                 <p>
-                    Aspiring Software Engineer
+                    Aspiring Software Engineer with a strong foundation in programming and problem-solving. Actively seeking internship or job opportunities in the software engineering domain to apply my skills and gain hands-on industry experience. Passionate about building efficient, scalable solutions and continuously learning new technologies.
                 </p>
             </div>
             <div className='py-10 flex flex-col'>
