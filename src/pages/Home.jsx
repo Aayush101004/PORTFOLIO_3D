@@ -2,7 +2,7 @@ import { Canvas } from '@react-three/fiber';
 import { Suspense, useEffect, useRef, useState } from 'react';
 import soundoff from '../assets_3d_portfolio/assets/icons/soundoff.png';
 import soundon from '../assets_3d_portfolio/assets/icons/soundon.png';
-import sakura from '../assets_3d_portfolio/assets/sakura.mp3';
+import sonder from '../assets_3d_portfolio/assets/sonder.mp3';
 import HomeInfo from '../components/HomeInfo';
 import Loader from '../components/Loader';
 import Bird from '../models/Bird';
@@ -10,7 +10,7 @@ import Island from '../models/Island';
 import Plane from '../models/Plane';
 import Sky from '../models/Sky';
 const Home = () => {
-    const audioRef = useRef(new Audio(sakura));
+    const audioRef = useRef(new Audio(sonder));
     audioRef.current.volume = 0.4;
     audioRef.current.loop = true;
     const [isRotating, setIsRotating] = useState(false);
