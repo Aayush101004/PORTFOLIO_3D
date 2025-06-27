@@ -151,7 +151,7 @@ export const socialLinks = [
     {
         name: 'Resume',
         iconUrl: resume,
-        link: 'https://drive.google.com/file/d/1BDiYMf-ZRnVGo8xZ1PB0VRyXT4OAV_rQ/view',
+        link: 'https://drive.google.com/file/d/1udS7-tqCnSPcV3xNUKojHObTuaIddXVV/view?usp=sharing',
     }
 ];
 
