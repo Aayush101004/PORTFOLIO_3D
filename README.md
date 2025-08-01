@@ -38,37 +38,6 @@ Email Services: EmailJS
 
 Version Control: Git & GitHub
 
-📂 File Structure
-The project is organized into a clean and maintainable structure:
-
-/src
-|-- /assets
-|-- /components
-|   |-- Alert.jsx
-|   |-- CTA.jsx
-|   |-- HomeInfo.jsx
-|   |-- Loader.jsx
-|   `-- Navbar.jsx
-|-- /constants
-|   `-- index.js
-|-- /hooks
-|   `-- useAlert.js
-|-- /models
-|   |-- Bird.jsx
-|   |-- Fox.jsx
-|   |-- Island.jsx
-|   |-- Plane.jsx
-|   `-- Sky.jsx
-|-- /pages
-|   |-- About.jsx
-|   |-- Contact.jsx
-|   |-- Home.jsx
-|   |-- Projects.jsx
-|   `-- index.js
-|-- App.jsx
-|-- index.css
-`-- main.jsx
-
 ## ⚙️ Getting Started
 To get a local copy up and running, follow these simple steps.
 
