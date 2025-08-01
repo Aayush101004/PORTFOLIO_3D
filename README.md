@@ -54,7 +54,7 @@ Clone the repo
 
 Bash
 
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/Aayush101004/PORTFOLIO_3D.git
 Install NPM packages
 
 Bash
